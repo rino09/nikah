@@ -4,9 +4,8 @@
 
 ## Demo
 
-Anda dapat melihat demo langsung dari NIKAHFIX di sini: [NIKAHFIX - Demo](nikah-rinos-projects-341fb76f.vercel.app
-).
-Jika anda memiliki tujuan spesifik undangannya, bisa dibuat link seperti berikut [https://nikahfix-v01.vercel.app/?to=tajul+dan+gorbon](https://nikahfix-v01.vercel.app/?to=tajul+dan+gorbon)
+Anda dapat melihat demo langsung dari NIKAHFIX di sini: [NIKAHFIX - Demo](https://nikah-psi.vercel.app).
+Jika anda memiliki tujuan spesifik undangannya, bisa dibuat link seperti berikut [https://nikahfix-v01.vercel.app/?to=tajul+dan+gorbon](https://nikah-rinos-projects-341fb76f.vercel.app)
 
 ## Teknologi yang Digunakan
 
